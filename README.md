@@ -1,1 +1,5 @@
 # InfoGame
+
+## Objective
+
+## Timeline
